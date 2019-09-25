@@ -60,7 +60,6 @@ pythonLayer:
   inputs:
     requirements: requirements.txt # optional
     dockerizePip: true # false by default, runs pip inside of docker
-  component: "@serverless/schedule"
 ```
 
 ### 4. Deploy
