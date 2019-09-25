@@ -1,5 +1,8 @@
 # python-requirements-layer
 
+**This is still in very early stages and these directions don't work yet since
+this isn't published to NPM yet**
+
 &nbsp;
 
 A serverless component to package python dependencies as a layer
