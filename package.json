@@ -1,0 +1,23 @@
+{
+  "name": "@serverless/python-requirements-layer",
+  "version": "1.0.0",
+  "description": "A Serverless Component to package Python requirements as a layer",
+  "main": "serverless.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverless/python-requirements-layer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serverless/python-requirements-layer/issues"
+  },
+  "homepage": "https://github.com/serverless/python-requirements-layer#readme",
+  "dependencies": {
+    "@serverless/aws-lambda-layer": "^1.0.0"
+  }
+}
